@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Vaibhav
 
-<!--
-**max3no/max3no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-focused software developer with a passion for building robust and scalable applications.  
+Currently expanding my skills in cloud engineering and frontend development.
 
-Here are some ideas to get you started:
+- 💻 Experienced in Java, Spring Boot, and backend system design  
+- ⚛️ Learning React and Next.js to build engaging user interfaces  
+- 🚀 Passionate about developing products that solve real-world problems  
+- 🌱 Continuously growing in cloud-native technologies and distributed systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my projects and connect!
+
+---
+
+📫 **Contact:** [vaibhavsingh.contact@gmail.com]  
